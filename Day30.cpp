@@ -1,0 +1,1 @@
+//Write a Program to print Length of the string without using strlen() function
